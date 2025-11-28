@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+int a,b,c,sum=0;
+float avg=0;
+a=30,b=40,c=50;
+sum=a+b+c;
+avg=sum/3;
+printf("the sum of three numbers:%d\n",sum);
+printf("the avg of three numbers:%f\n",avg);
+}
