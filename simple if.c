@@ -8,10 +8,7 @@ int main()
   {
       printf("person is eligiable for vote");
   }
-  else
-  {
-      printf("person is not eligiable for vote");
-  }
+   printf("person is not eligiable for vote");
    return 0;
 }
 
