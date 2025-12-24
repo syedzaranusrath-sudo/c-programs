@@ -1,5 +1,6 @@
 #include <stdio.h>
-2 int main()
+#include<stdlib.h>
+int main()
 {
     int a, b, max, min;
     printf("Enter two numbers: ");
