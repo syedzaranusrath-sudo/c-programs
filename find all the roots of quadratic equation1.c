@@ -15,9 +15,9 @@ int main()
     }
         else if(d>0)
         {
-            printf("roots are real and different");
+            printf("roots are real and different\n");
             r1=(-b+sqrt(d))/(2*a);
-            r2=(-b+sqrt(d))/(2*a);
+            r2=(-b-sqrt(d))/(2*a);
             printf("root1=%f",r1);
             printf("root2=%f",r2);
         }
